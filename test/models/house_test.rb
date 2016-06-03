@@ -13,6 +13,6 @@ class HouseTest < Minitest::Test
 
   def test_there_are_a_lot_of_houses
     houses = House.all
-    assert houses.count > 3
+    assert houses.count > 10
   end
 end
