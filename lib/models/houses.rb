@@ -4,6 +4,7 @@ HOUSE_DATA = [
   { name: "Greyjoy", words: "We Do Not Sow" },
   { name: "Lannister", words: "Hear Me Roar" },
   { name: "Stark", words: "Winter is Coming" },
+  { name: "martell", words: "Unbent" },
   { name: "Targaryen", words: "Fire and Blood" }
 ]
 
