@@ -6,7 +6,5 @@
     "RACK_ENV": "production"
   },
   "scripts": {
-    "test-setup": "bundle install --with test",
-    "test": "bundle exec rake"
   }
 }
