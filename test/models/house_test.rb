@@ -11,8 +11,8 @@ class HouseTest < Minitest::Test
     assert_equal targaryen.name, 'Targaryen'
   end
 
-  def test_there_are_six_houses
+  def test_there_are_seven_houses
     houses = House.all
-    assert houses.count == 6
+    assert houses.count == 7
   end
 end
