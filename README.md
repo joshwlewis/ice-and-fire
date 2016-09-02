@@ -1,2 +1,3 @@
-# ice-and-fire
-A JSON API for your favorite houses.
+# Ice and Fire
+
+A JSON API for all your favorite houses.
