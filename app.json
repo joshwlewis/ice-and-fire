@@ -6,5 +6,7 @@
     "RACK_ENV": "production"
   },
   "scripts": {
+    "test-setup": "bundle install --with test && rake db:migrate",
+    "test": "bundle exec rake"
   }
 }
