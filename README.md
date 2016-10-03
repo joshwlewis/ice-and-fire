@@ -1,3 +1,3 @@
 # Ice and Fire
 
-A JSON API for all your favorite houses.
+A JSON API to test some things.
