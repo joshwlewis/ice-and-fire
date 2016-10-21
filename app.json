@@ -3,7 +3,10 @@
   "description": "A JSON API for all your favorite houses",
   "repository": "https://github.com/joshwlewis/ice-and-fire",
   "env": {
-    "RACK_ENV": "production"
+    "RACK_ENV": "production",
+    "BAZ": {
+      "required": true
+    }
   },
   "scripts": {
     "test-setup": "bundle install --with test",
