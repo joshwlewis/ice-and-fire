@@ -7,6 +7,6 @@
   },
   "scripts": {
     "test-setup": "bundle install --with test",
-    "test": "while :; do sleep 5 && echo '🐝'; done"
+    "test": "while :; do sleep 5 && echo '🐝🐝🐝🐝'; done"
   }
 }
