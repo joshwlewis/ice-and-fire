@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+echo $PATH
+echo $(ls -al /app/.apt/usr/bin)
+echo $(which google-chrome-unstable)
+
+google-chrome-unstable --headless https://www.heroku.com
