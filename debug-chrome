@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 echo $PATH
 echo $(ls -al /app/.apt/usr/bin)
