@@ -1,12 +1,5 @@
 {
   "name": "Ice and Fire",
   "description": "A JSON API for all your favorite houses",
-  "repository": "https://github.com/joshwlewis/ice-and-fire",
-  "env": {
-    "RACK_ENV": "production"
-  },
-  "scripts": {
-    "test-setup": "bundle install --with test",
-    "test": "bundle exec rake && echo 🍕"
-  }
+  "repository": "https://github.com/joshwlewis/ice-and-fire"
 }
