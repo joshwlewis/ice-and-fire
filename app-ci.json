@@ -2,7 +2,11 @@
   "name": "Ice and Fire",
   "description": "A JSON API for all your favorite houses",
   "repository": "https://github.com/joshwlewis/ice-and-fire",
+  "scripts": {
+    "test": "google-chrome-unstable --headless https://www.heroku.com"
+  },
   "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-apt" },
     { "url": "https://github.com/heroku/heroku-buildpack-ruby#testpack" }
   ]
 }
