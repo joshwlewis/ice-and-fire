@@ -1,5 +1,11 @@
 {
   "name": "Ice and Fire",
   "description": "A JSON API for all your favorite houses",
-  "repository": "https://github.com/joshwlewis/ice-and-fire"
+  "repository": "https://github.com/joshwlewis/ice-and-fire",
+  "formation": {
+    "web": {
+      "size": "Hobby",
+      "quantity": 1
+    }
+  }
 }
