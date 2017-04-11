@@ -1,8 +1,0 @@
-{
-  "name": "Ice and Fire",
-  "description": "A JSON API for all your favorite houses",
-  "repository": "https://github.com/joshwlewis/ice-and-fire",
-  "buildpacks": [
-    { "url": "https://github.com/heroku/heroku-buildpack-ruby#testpack" }
-  ]
-}
