@@ -8,7 +8,7 @@ class HouseTest < Minitest::Test
   def test_house_can_be_found
     targaryen = House.find('Targaryen')
     assert_instance_of House, targaryen
-    assert_equal targaryen.name, 'Targaryen'
+    assert_equal targaryen.name, 'Tar'
   end
 
   def test_there_are_seven_houses
